@@ -35,9 +35,9 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px;
+    padding: 12px 25px;
     z-index: 999;
-    background: var(--primary-color);
+    background: #fafeff;
 }
 
 .logo img {
@@ -447,9 +447,24 @@ footer h5 {
     overflow: hidden;
     cursor: pointer;
     border-radius: 10px;
+    position: relative;
 }
 
-.sub-galeri img {
+.sub-galeri::before {
+    content: "PUTRA TEKNIK AIR";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.9rem;
+    font-weight: 800;
+    z-index: 990;
+    text-align: center;
+}
+
+.sub-galeri img,
+.sub-galeri video {
     width: 100%;
     height: 100%;
     object-fit: cover;
