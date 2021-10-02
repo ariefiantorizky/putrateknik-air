@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.putratekniksumberair.com/</title>
+  <link>http://www.putratekniksumberair.com/</link>
+
+<item>
+     <link>http://www.putratekniksumberair.com/</link>
+     <title>PUTRA TEKNIK | JASA PENGEBORAN SUMUR AIR TERPERCAYA</title>
+     <description>Putra Teknik Air adalah Jasa Pengeboran Sumur yang berpengalaman selama 5+ tahun dan ditunjang oleh pekerja yang profesional dan handal dibidangnya</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.putratekniksumberair.com/subfolder/galeri/</link>
+     <title>PUTRA TEKNIK | GALERI</title>
+     <description>Putra Teknik Air adalah Jasa Pengeboran Sumur yang berpengalaman selama 5+ tahun dan ditunjang oleh pekerja yang profesional dan handal dibidangnya</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.putratekniksumberair.com/subfolder/layanan/</link>
+     <title>PUTRA TEKNIK | LAYANAN</title>
+     <description>Putra Teknik Air adalah Jasa Pengeboran Sumur yang berpengalaman selama 5+ tahun dan ditunjang oleh pekerja yang profesional dan handal dibidangnya</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.putratekniksumberair.com/subfolder/tentang-kami/</link>
+     <title>PUTRA TEKNIK | TENTANG KAMI</title>
+     <description>Putra Teknik Air adalah Jasa Pengeboran Sumur yang berpengalaman selama 5+ tahun dan ditunjang oleh pekerja yang profesional dan handal dibidangnya</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.putratekniksumberair.com/index.html</link>
+     <title>PUTRA TEKNIK | JASA PENGEBORAN SUMUR AIR TERPERCAYA</title>
+     <description>Putra Teknik Air adalah Jasa Pengeboran Sumur yang berpengalaman selama 5+ tahun dan ditunjang oleh pekerja yang profesional dan handal dibidangnya</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
