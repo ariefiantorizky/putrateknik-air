@@ -45,4 +45,13 @@ topBTN.addEventListener("click", function () {
 const allImages = document.querySelectorAll("img");
 for (let i = 0; i < allImages.length; i++) {
     allImages[i].draggable = false;
+    allImages[i].setAttribute("loading", "lazy");
 }
+
+// CLOSE PROMO
+const closeBtn = document.querySelector(".close");
+const bannerPromo = document.querySelector(".banner-promo");
+
+closeBtn.addEventListener("click", function () {
+    bannerPromo.style.display = "none";
+});
